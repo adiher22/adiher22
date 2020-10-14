@@ -1,11 +1,11 @@
 ### Hi there, i'm Adi 👋
 
-## I'am a Full Stack Web Developer, Freelancer.
+## I'am a Full Stack Web Developer, Freelancer
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Freelance
-- 🌱 I’m currently learning SCSS, Vue.js, Laravel.
+- 🌱 I’m currently learning Vue.js, Laravel, Node.js, React.js
 - 👯 I’m looking to collaborate on Freelancer
 - 🤔 I’m looking for help with PHP Development
 - 💬 Ask me about Codeigniter, MVC, PHP Native.
