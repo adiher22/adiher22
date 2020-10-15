@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Vue.js, Laravel, Node.js, React.js
 - 👯 I’m looking to collaborate on Freelancer
 - 🤔 I’m looking for help with PHP Development
-- 💬 Ask me about Codeigniter, MVC, PHP Native.
 
 - 😄 Pronouns: Bro/Gan
 - Fun fact: I'm good and handsome 😄 
