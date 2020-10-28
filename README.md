@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Freelance
-- 🌱 I’m currently learning Vue.js, Laravel, Node.js, React.js
+- 🌱 I’m currently learning Vue.js, Laravel
 - 👯 I’m looking to collaborate on Freelancer
 - 🤔 I’m looking for help with PHP Development
 
